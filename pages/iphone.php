@@ -121,7 +121,7 @@ h2 {
             <h2 style="color: aqua">La technologie de demain, aujourd'hui.</h2>
         
             <video id="background-video" autoplay loop muted poster="https://assets.codepen.io/6093409/river.jpg">
-            <source src="xlarge_2x.mp4" type="video/mp4">
+            <source src="../image_back/xlarge_2x.mp4" type="video/mp4">
             </video>
         <video autoplay muted loop>
         
@@ -131,56 +131,56 @@ h2 {
 
     <section class="product-cards-section">
         <div class="card">
-            <img src="image1.jpg" class="card-img-top" alt="...">
+            <img src="../image_back/image1.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">Caméras avancées</h5>
                 <p class="card-text">Photographes. Cinéastes. Visionnaires.</p>
             </div>
         </div>
         <div class="card">
-            <img src="image2.jpg" class="card-img-top" alt="...">
+            <img src="../image_back/image2.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">Puces signées Apple</h5>
                 <p class="card-text">Le genre de vitesse qui se sent.</p>
             </div>
         </div>
         <div class="card">
-            <img src="image3.jpg" class="card-img-top" alt="...">
+            <img src="../image_back/image3.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">Autonomie</h5>
                 <p class="card-text">Longue vie à la batterie.</p>
             </div>
         </div>
         <div class="card">
-            <img src="image4.jpg" class="card-img-top" alt="...">
+            <img src="../image_back/image4.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">Innovation</h5>
                 <p class="card-text">Irrésistiblement réinventé.</p>
             </div>
         </div>
         <div class="card">
-            <img src="image5.jpg" class="card-img-top" alt="...">
+            <img src="../image_back/image5.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">Personnalisation</h5>
                 <p class="card-text">Une touche de vous un peu partout.</p>
             </div>
         </div>
         <div class="card">
-            <img src="image6.jpg" class="card-img-top" alt="...">
+            <img src="../image_back/image6.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">Personnalisation</h5>
                 <p class="card-text">Une touche de vous un peu partout.</p>
             </div>
         </div>
         <div class="card">
-            <img src="image7.jpg" class="card-img-top" alt="...">
+            <img src="../image_back/image7.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">Personnalisation</h5>
                 <p class="card-text">Une touche de vous un peu partout.</p>
             </div>
         </div>
         <div class="card">
-            <img src="image8.jpg" class="card-img-top" alt="...">
+            <img src="../image_back/image8.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">Personnalisation</h5>
                 <p class="card-text">Une touche de vous un peu partout.</p>

@@ -1,6 +1,6 @@
 <?php
 
-require_once './fonction.php';
+require_once '../Fonction/fonction.php';
 ExpirPromotions();
 ?>
 <!DOCTYPE html>

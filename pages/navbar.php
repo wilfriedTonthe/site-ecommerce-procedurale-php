@@ -22,7 +22,7 @@ if (isset($_POST['btn-ajout'])) {
 <nav class="navbar navbar-expand-lg bg-body-tertiary mb-5" style="position:sticky;top:0;width:100%;">
     <div class="container-fluid">
         <a class="navbar-brand" href="#">
-            <img src="logo.png" alt="vitesse" height="30">
+            <img src="../image_back/logo.png" alt="vitesse" height="30">
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
                 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

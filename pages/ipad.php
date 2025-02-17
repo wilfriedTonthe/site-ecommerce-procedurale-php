@@ -120,49 +120,49 @@ h2 {
             <h2 style="color: aqua">La technologie de demain, aujourd'hui.</h2>
         
             <video id="background-video" autoplay loop muted poster="https://assets.codepen.io/6093409/river.jpg">
-            <source src="ipad.mp4" type="video/mp4">
+            <source src="../image_back/ipad.mp4" type="video/mp4">
             </video>
             
     </section>
 
     <section class="product-cards-section">
         <div class="card">
-            <img src="ipad1.jpg" class="card-img-top" alt="...">
+            <img src="../image_back/ipad1.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">Caméras avancées</h5>
                 <p class="card-text">Photographes. Cinéastes. Visionnaires.</p>
             </div>
         </div>
         <div class="card">
-            <img src="ipad2.jpg" class="card-img-top" alt="...">
+            <img src="../image_back/ipad2.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">Puces signées Apple</h5>
                 <p class="card-text">Le genre de vitesse qui se sent.</p>
             </div>
         </div>
         <div class="card">
-            <img src="ipad3.jpg" class="card-img-top" alt="...">
+            <img src="../image_back/ipad3.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">Autonomie</h5>
                 <p class="card-text">Longue vie à la batterie.</p>
             </div>
         </div>
         <div class="card">
-            <img src="ipad4.jpg" class="card-img-top" alt="...">
+            <img src="../image_back/ipad4.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">Innovation</h5>
                 <p class="card-text">Irrésistiblement réinventé.</p>
             </div>
         </div>
         <div class="card">
-            <img src="ipad5.jpg" class="card-img-top" alt="...">
+            <img src="../image_back/ipad5.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">Personnalisation</h5>
                 <p class="card-text">Une touche de vous un peu partout.</p>
             </div>
         </div>
         <div class="card">
-            <img src="ipad6.jpg" class="card-img-top" alt="...">
+            <img src="../image_back/ipad6.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">Personnalisation</h5>
                 <p class="card-text">Une touche de vous un peu partout.</p>
